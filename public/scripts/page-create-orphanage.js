@@ -8,7 +8,7 @@ L.tileLayer(
 ).addTo(map);
 
 const icon = L.icon({
-    iconUrl: "./public/images/map-marker.svg",
+    iconUrl: "/images/map-marker.svg",
     iconSize: [38,48],
     iconAnchor: [25,48],
 })
